@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Abstractions;
 using Microsoft.EntityFrameworkCore;
 using TestApp.Data;
+using TestApp.Migrations;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace TestApp.Controllers
 {
@@ -25,9 +27,24 @@ namespace TestApp.Controllers
         }
 
         [HttpGet(Name = "GetWeatherForecast")]
-        public async Task<ActionResult<IEnumerable<WeatherForecast>>> Get()
+        public async Task<ActionResult<IEnumerable<Product>>> Get()
         {
-            var data = await _context.Forecasts.ToListAsync();
+            // var data = await _context.Forecasts.ToListAsync();
+
+            var data = new List<Product>
+            {
+                new() {
+                    Id = Guid.NewGuid(),
+                    Code = "Test One",
+                    Name = "Test"
+                },
+                new() {
+                    Id = Guid.NewGuid(),
+                    Code = "Test Two",
+                    Name = "Test Two"
+                }
+            };
+
             return Ok(data);
         }
 
