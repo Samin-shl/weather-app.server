@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Initial\\TestApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\migrations\\20260505091328_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\migrations\\20260505091328_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|d:\\initial\\testapp\\testapp\\migrations\\20260503093607_weathertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0A5516F-CF94-4F6B-6308-242CCA1A71A5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\migrations\\20260503093607_weathertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,15 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260505091328_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260505091328_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TestApp\\Migrations\\20260505091328_InitialCreate.cs",
+              "ToolTip": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260505091328_InitialCreate.cs",
+              "RelativeToolTip": "TestApp\\Migrations\\20260505091328_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T09:13:30.236Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "TestApp\\Properties\\launchSettings.json",
@@ -58,20 +67,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "TestApp\\WeatherForecast.cs",
               "ToolTip": "D:\\Initial\\TestApp\\TestApp\\WeatherForecast.cs",
               "RelativeToolTip": "TestApp\\WeatherForecast.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAhwBEAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T09:30:27.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-03T09:30:27.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "TestApp\\Data\\ApplicationDbContext.cs",
@@ -83,52 +91,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\appsettings.json",
               "RelativeDocumentMoniker": "TestApp\\appsettings.json",
               "ToolTip": "D:\\Initial\\TestApp\\TestApp\\appsettings.json",
               "RelativeToolTip": "TestApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-03T09:08:29.296Z"
+              "WhenOpened": "2026-05-03T09:08:29.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TestApp\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\Initial\\TestApp\\TestApp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "TestApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T09:06:07.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T09:06:07.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20260503093607_weatherTable.cs",
-              "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "RelativeDocumentMoniker": "TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "ToolTip": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "RelativeToolTip": "TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T09:36:08.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Program.cs",
               "RelativeDocumentMoniker": "TestApp\\Program.cs",
               "ToolTip": "D:\\Initial\\TestApp\\TestApp\\Program.cs",
               "RelativeToolTip": "TestApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-20T09:00:06.2Z"
+              "WhenOpened": "2026-04-20T09:00:06.2Z",
+              "EditorCaption": ""
             }
           ]
         }
