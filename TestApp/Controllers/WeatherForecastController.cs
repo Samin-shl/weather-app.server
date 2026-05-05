@@ -26,25 +26,32 @@ namespace TestApp.Controllers
             _context = context;
         }
 
+        //[HttpGet(Name = "GetProducts")]
+        //public async Task<ActionResult<IEnumerable<Product>>> GetProduct()
+        //{
+        //    // var data = await _context.Forecasts.ToListAsync();
+
+        //    var data = new List<Product>
+        //    {
+        //        new() {
+        //            Id = Guid.NewGuid(),
+        //            Code = "Test One",
+        //            Name = "Test"
+        //        },
+        //        new() {
+        //            Id = Guid.NewGuid(),
+        //            Code = "Test Two",
+        //            Name = "Test Two"
+        //        }
+        //    };
+
+        //    return Ok(data);
+        //}
+
         [HttpGet(Name = "GetWeatherForecast")]
         public async Task<ActionResult<IEnumerable<Product>>> Get()
         {
-            // var data = await _context.Forecasts.ToListAsync();
-
-            var data = new List<Product>
-            {
-                new() {
-                    Id = Guid.NewGuid(),
-                    Code = "Test One",
-                    Name = "Test"
-                },
-                new() {
-                    Id = Guid.NewGuid(),
-                    Code = "Test Two",
-                    Name = "Test Two"
-                }
-            };
-
+            var data = await _context.Forecasts.ToListAsync();
             return Ok(data);
         }
 

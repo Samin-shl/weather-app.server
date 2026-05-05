@@ -41,16 +41,8 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20260503093607_weatherTable.cs",
-              "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "RelativeDocumentMoniker": "TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "ToolTip": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "RelativeToolTip": "TestApp\\Migrations\\20260503093607_weatherTable.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-03T09:36:08.401Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -109,10 +101,22 @@
               "RelativeDocumentMoniker": "TestApp\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\Initial\\TestApp\\TestApp\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "TestApp\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAiwCEAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T09:06:07.578Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260503093607_weatherTable.cs",
+              "DocumentMoniker": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260503093607_weatherTable.cs",
+              "RelativeDocumentMoniker": "TestApp\\Migrations\\20260503093607_weatherTable.cs",
+              "ToolTip": "D:\\Initial\\TestApp\\TestApp\\Migrations\\20260503093607_weatherTable.cs",
+              "RelativeToolTip": "TestApp\\Migrations\\20260503093607_weatherTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-03T09:36:08.401Z"
             },
             {
               "$type": "Document",
