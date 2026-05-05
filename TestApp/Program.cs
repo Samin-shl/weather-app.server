@@ -20,7 +20,7 @@ builder.Services.AddCors(options =>
                       policy =>
                       {
                           policy.WithOrigins("http://localhost:4200",
-                                              "http://www.contoso.com")
+                                              "https://green-sea-09dcd2600.7.azurestaticapps.net")
                           .AllowAnyHeader().AllowAnyMethod();
                       });
 });
